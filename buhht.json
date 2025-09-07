@@ -183,7 +183,7 @@
         "PRIMARY_800": "#0C0B0C"
     }, 
 	"background": {
-    "blur": 1
+    "blur": 1,
     "url": "https://raw.githubusercontent.com/hauntertea/btest/refs/heads/main/Untitled1192_20250824153648.png",
     "alpha": 0.46
     },
